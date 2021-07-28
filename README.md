@@ -17,13 +17,17 @@
 </p>
 
 <h4 align="center">
-   👷🏾‍♂️⚙️ Concluído 31 - 620 ⚙️👷🏾‍♂️
+   👷🏾‍♂️⚙️ Concluído 43 - 620 ⚙️👷🏾‍♂️
 <h4>
 
 ## 🗺️ Guia  
 
 - JavaScript Básico - Para iniciantes
-    - [Aulas 1 - 20]()
+    - [Aulas 1 - 20](https://github.com/Ronald785/curso-js/tree/master/scripts/secao2)
+- JavaScript - Lógica de programação
+    - [Aulas 20 - ...](https://github.com/Ronald785/curso-js/tree/master/scripts/secao3)
+- Projetos
+  - [Calculadora IMC](https://github.com/Ronald785/curso-js/tree/master/scripts/Projetos/imc)
 
 
 ## 🚀 Tecnologias
@@ -55,4 +59,4 @@ Contate-me
 
 ---
 
-Plataforma de estudos [Udemy](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/)🚀
+Plataforma de estudos [Udemy - Curso de JavaScript e TypeScript do básico ao avançado 2021](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/)🚀
