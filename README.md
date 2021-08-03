@@ -17,7 +17,7 @@
 </p>
 
 <h4 align="center">
-   👷🏾‍♂️⚙️ Concluído 43 - 620 ⚙️👷🏾‍♂️
+   👷🏾‍♂️⚙️ Concluído 70 - 620 ⚙️👷🏾‍♂️
 <h4>
 
 ## 🗺️ Guia  
@@ -25,9 +25,13 @@
 - JavaScript Básico - Para iniciantes
     - [Aulas 1 - 20](https://github.com/Ronald785/curso-js/tree/master/scripts/secao2)
 - JavaScript - Lógica de programação
-    - [Aulas 20 - ...](https://github.com/Ronald785/curso-js/tree/master/scripts/secao3)
+    - [Aulas 20 - 48](https://github.com/Ronald785/curso-js/tree/master/scripts/secao3)
+- JavaScript - Funções (Avançado)
+    - [Aulas 49 - ...](https://github.com/Ronald785/curso-js/tree/master/scripts/secao4)
 - Projetos
   - [Calculadora IMC](https://github.com/Ronald785/curso-js/tree/master/scripts/Projetos/imc)
+  - [Cronometro](https://github.com/Ronald785/curso-js/tree/master/scripts/Projetos/timer)
+  - [Lista de Tarefas](https://github.com/Ronald785/curso-js/tree/master/scripts/Projetos/Lista)
 
 
 ## 🚀 Tecnologias
