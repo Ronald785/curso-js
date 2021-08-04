@@ -97,4 +97,3 @@ const func2 = g5.next().value;
 
 func1();//VIm do y1
 func2();//Vim do return
-
