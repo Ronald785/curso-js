@@ -2,6 +2,7 @@
 //É uma função que se chamada de volta
 //Preocupe-se com quando ela deve parar de se chamar de volta 
 //Existe um determinado limite, pq ele vai achar q houve erro ou loop infinito
+//Parando o stack trace
 
 function recursiva(max) {
     console.log(max);
