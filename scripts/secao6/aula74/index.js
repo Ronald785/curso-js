@@ -11,7 +11,9 @@ function Pessoa(nome, sobrenome) {
 //Prototype é um obj q automaticamente está atrelado a função construtora 
 //Interessante usar em métodos que fazem a msm coisa para todos objetos
 //Primeiro olha o corpo do obj dps o proto
-Pessoa.prototype.nomeCompleto = () => this.nome + ' ' + this.sobrenome;
+Pessoa.prototype.nomeCompleto = function() {
+    return this.nome + ' ' + this.sobrenome;
+};
 
 //pessoa1.__prot__ === Pessoa.prototype
 
@@ -42,3 +44,5 @@ const data = new Date();
 //Cadeia: Ondo o motor do JS vai buscar os membros/propriedades/métodos
 //data -> Date.prototype -> Object.prototype
 console.log(data.toLocaleDateString());
+
+console.log(pessoa1.nomeCompleto());
