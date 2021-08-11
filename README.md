@@ -17,7 +17,7 @@
 </p>
 
 <h4 align="center">
-   👷🏾‍♂️⚙️ Concluído 88 - 620 ⚙️👷🏾‍♂️
+   👷🏾‍♂️⚙️ Concluído 103 - 620 ⚙️👷🏾‍♂️
 <h4>
 
 ## 🗺️ Guia  
@@ -31,7 +31,9 @@
 - JavaScript - Arrays (Avançado)
     - [Aulas 62 - 69](https://github.com/Ronald785/curso-js/tree/master/scripts/secao5)
 - JavaScript - Objetos e Prototypes (Avançado)
-    - [Aulas 70 - ...](https://github.com/Ronald785/curso-js/tree/master/scripts/secao6)
+    - [Aulas 70 - 79](https://github.com/Ronald785/curso-js/tree/master/scripts/secao6)
+- JavaScript - Classes - Programação Orientada a Objetos e Prototypes - (POO)
+    - [Aulas 80 - ...](https://github.com/Ronald785/curso-js/tree/master/scripts/secao7)
 - Projetos
   - [Calculadora IMC](https://github.com/Ronald785/curso-js/tree/master/scripts/Projetos/imc)
   - [Cronometro](https://github.com/Ronald785/curso-js/tree/master/scripts/Projetos/timer)
@@ -44,6 +46,7 @@
 
 Tecnologias utilizadas:
 
+- [Google Chrome](https://www.google.com/)
 - [VS Code](https://code.visualstudio.com/)
 - [NodeJs](https://nodejs.org/en/)
 
