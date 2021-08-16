@@ -55,7 +55,7 @@ executa();
 
 /*
 Estados da promise
-pending  -> Pendente - ainda está sendo executada e ainda n retornou o valor
-
-
+pending (Pendente): ainda está sendo executada e ainda n retornou o valor
+fulfilled (Realizada): sucesso na operação.
+rejected (Rejeitado): falha na operação.
 */
