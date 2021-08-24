@@ -17,13 +17,20 @@
 </p>
 
 <h4 align="center">
-   👷🏾‍♂️⚙️ Concluído 103 - 620 ⚙️👷🏾‍♂️
+   👷🏾‍♂️⚙️ Concluído 115 - 620 ⚙️👷🏾‍♂️
 <h4>
 
 ## 🗺️ Guia  
 
-- JavaScript Básico - Para iniciantes
-    - [Aulas 1 - 20](https://github.com/Ronald785/curso-js/tree/master/scripts/secao2)
+- __Projetos__
+  - [Calculadora IMC](https://github.com/Ronald785/curso-js/tree/master/scripts/Projetos/imc)
+  - [Cronometro](https://github.com/Ronald785/curso-js/tree/master/scripts/Projetos/timer)
+  - [Lista de Tarefas](https://github.com/Ronald785/curso-js/tree/master/scripts/Projetos/Lista)
+  - [Timer](https://github.com/Ronald785/curso-js/tree/master/scripts/Projetos/timer)
+  - [CPF](https://github.com/Ronald785/curso-js/tree/master/scripts/Projetos/CPF)
+
+- JavaScript - Para iniciantes
+    - [Aulas 01 - 20](https://github.com/Ronald785/curso-js/tree/master/scripts/secao2)
 - JavaScript - Lógica de programação
     - [Aulas 20 - 48](https://github.com/Ronald785/curso-js/tree/master/scripts/secao3)
 - JavaScript - Funções (Avançado)
@@ -33,14 +40,11 @@
 - JavaScript - Objetos e Prototypes (Avançado)
     - [Aulas 70 - 79](https://github.com/Ronald785/curso-js/tree/master/scripts/secao6)
 - JavaScript - Classes - Programação Orientada a Objetos e Prototypes - (POO)
-    - [Aulas 80 - ...](https://github.com/Ronald785/curso-js/tree/master/scripts/secao7)
-- Projetos
-  - [Calculadora IMC](https://github.com/Ronald785/curso-js/tree/master/scripts/Projetos/imc)
-  - [Cronometro](https://github.com/Ronald785/curso-js/tree/master/scripts/Projetos/timer)
-  - [Lista de Tarefas](https://github.com/Ronald785/curso-js/tree/master/scripts/Projetos/Lista)
-  - [Timer](https://github.com/Ronald785/curso-js/tree/master/scripts/Projetos/timer)
-
-
+    - [Aulas 80 - 85](https://github.com/Ronald785/curso-js/tree/master/scripts/secao7)
+- JavaScript - Assíncrono - Promises, Ajax, Fetch e Async/Await
+    - [Aulas 86 - 91](https://github.com/Ronald785/curso-js/tree/master/scripts/secao8)
+- JavaScript - Tooling e ES6 Modules
+    - [Aulas 92 - ...](https://github.com/Ronald785/curso-js/tree/master/scripts/secao9)
 
 ## 🚀 Tecnologias
 
@@ -49,6 +53,7 @@ Tecnologias utilizadas:
 - [Google Chrome](https://www.google.com/)
 - [VS Code](https://code.visualstudio.com/)
 - [NodeJs](https://nodejs.org/en/)
+- [Babel](https://babeljs.io/)
 
 ## 💻 Curso
 
@@ -67,9 +72,24 @@ Ronald Almeida
 
 Contate-me
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ronald785/)](https://www.linkedin.com/in/ronald785/)
-[![Gmail Badge](https://img.shields.io/badge/-ronaldmateus785@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ronaldmateus785@gmail.com)](mailto:ronaldmateus785@gmail.com)
-
+<p align="left">
+    <a href="https://www.linkedin.com/in/ronald785/" target="_blank">
+      <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="Linkedin-icon" width="30" height="30"/>
+    </a>
+      &nbsp;
+    <a href="https://github.com/Ronald785" target="_blank">
+      <img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="GitHub-icon" width="30" height="30"/>
+    </a>
+      &nbsp;
+    <a href="https://www.instagram.com/rndmateus/" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="Instagram-icon" width="30" height="30"/>   
+    </a>
+      &nbsp;
+    <a href="mailto:ronaldmateus785@gmail.com" target="_blank">
+      <img src="https://image.flaticon.com/icons/png/512/281/281769.png" alt="Gmail-icon" width="30" height="30"/>
+    </a>
+  </p>
+  
 ---
 
 Plataforma de estudos [Udemy - Curso de JavaScript e TypeScript do básico ao avançado 2021](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/)🚀
