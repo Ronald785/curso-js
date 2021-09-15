@@ -17,7 +17,7 @@
 </p>
 
 <h4 align="center">
-   👷🏾‍♂️⚙️ Concluído 115 - 620 ⚙️👷🏾‍♂️
+   👷🏾‍♂️⚙️ Concluído 118 - 620 ⚙️👷🏾‍♂️
 <h4>
 
 ## 🗺️ Guia  
